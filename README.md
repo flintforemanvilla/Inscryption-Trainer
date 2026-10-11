@@ -1,0 +1,2 @@
+# Inscryption-Trainer
+🎮 Inscryption Trainer
